@@ -10,8 +10,8 @@ namespace Exercicio3
 
     class Conta
     {
-        public string Numero;
-        private double Saldo = 0;
+        private string Numero;
+        public double Saldo = 0;
         public String Titular;
 
         //Criar método mostrar dados.
